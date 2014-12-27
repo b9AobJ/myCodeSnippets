@@ -10,7 +10,7 @@
 /**
  *  @brief  <#description#>
  *
- *  @param  <#param#>  param description
+ *  @param  <#param#>  <#description#>
  *  @param  <#param#>     <#param description#>
  *
  *  @return <#return description#>
