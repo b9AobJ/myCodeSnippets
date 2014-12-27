@@ -10,10 +10,8 @@
 /**
  *  @brief  <#description#>
  *
- * @param <#param description#>
- * @return <#return description#>
- *  @param  <#param#>  <#param description#>
+ *  @param  <#param#>  param description
  *  @param  <#param#>     <#param description#>
  *
- *  @return 文件名列表
+ *  @return <#return description#>
  */
