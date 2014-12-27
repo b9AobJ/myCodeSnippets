@@ -8,7 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 0
 /**
- *  @brief  获得指定目录下，指定后缀名的文件列表
+ *  @brief  <#description#>
  *
  *  @param  type    文件后缀名
  *  @param  dirPath     指定目录
