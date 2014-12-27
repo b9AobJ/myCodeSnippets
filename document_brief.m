@@ -10,7 +10,7 @@
 /**
  *  @brief  <#description#>
  *
- *  @param  type    文件后缀名
+ *  @param  #type#  文件后缀名
  *  @param  dirPath     指定目录
  *
  *  @return 文件名列表
