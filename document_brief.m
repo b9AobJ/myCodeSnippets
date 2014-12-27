@@ -11,7 +11,7 @@
  *  @brief  <#description#>
  *
  *  @param  <#param#>  <#description#>
- *  @param  <#param#>  <#description#
+ *  @param  <#param#>  <#description#>
  *
  *  @return <#return description#>
  */
