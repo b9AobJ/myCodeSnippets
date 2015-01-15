@@ -1,5 +1,5 @@
 // pr
-// 
+// @property (nonatomic, retain)
 //
 // IDECodeSnippetCompletionPrefix: pr
 // IDECodeSnippetCompletionScopes: [ClassInterfaceMethods]
