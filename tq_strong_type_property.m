@@ -7,4 +7,4 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
-@property (, strongnonatomic) <#type#> *<#name#>;
+@property (nonatomic, strong) <#type#> *<#name#>;
