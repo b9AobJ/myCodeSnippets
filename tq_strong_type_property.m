@@ -1,7 +1,7 @@
-// tq strong type property
+// strong type property
 // strong type property
 //
-// IDECodeSnippetCompletionPrefix: sss
+// IDECodeSnippetCompletionPrefix: ps
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: A83AE4CD-E79A-464F-B849-29BEB3CF4B01
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
