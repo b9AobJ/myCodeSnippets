@@ -1,5 +1,5 @@
 // Property declaration - weak
-// 
+// property weak
 //
 // IDECodeSnippetCompletionPrefix: pw
 // IDECodeSnippetCompletionScopes: [ClassInterfaceMethods]
