@@ -1,5 +1,5 @@
 // ELC UITableView - Delegate - Datasource
-// 
+// ttt
 //
 // IDECodeSnippetCompletionPrefix: ttt
 // IDECodeSnippetCompletionScopes: [ClassImplementation]
