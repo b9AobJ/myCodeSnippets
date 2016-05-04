@@ -2,6 +2,8 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>imv</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>All</string>
@@ -20,6 +22,8 @@ completion-scope: Code Expression
 	<string>B76C8C15-45DB-458C-AA6A-A005EAF2A6AB</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>图片加载</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>imv</string>
 	<key>IDECodeSnippetUserSnippet</key>
