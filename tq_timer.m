@@ -8,7 +8,7 @@
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
 // 创建
-self.<#var#> = [NSTimer scheduledTimerWithTimeInterval:<>
+self.<#var#> = [NSTimer scheduledTimerWithTimeInterval:<#timeNum#>
                                                             target:self
                                               selector:@selector(<#timerMethod#>)
                                                           userInfo:nil
