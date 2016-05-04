@@ -1,4 +1,4 @@
-// waring clear
+// Waring Clear
 // 清除warning
 //
 // IDECodeSnippetCompletionPrefix: wc
