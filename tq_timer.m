@@ -1,5 +1,5 @@
 // sid_timer
-// tq_timer
+// 时间
 //
 // IDECodeSnippetCompletionPrefix: tq_timer
 // IDECodeSnippetCompletionScopes: [CodeExpression]
