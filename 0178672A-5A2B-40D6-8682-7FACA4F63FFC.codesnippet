@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>pcd</string>
+	<string>wc</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeBlock</string>
@@ -12,8 +12,7 @@
 	<string>#pragma clang diagnostic push
 #pragma clang diagnostic ignored "&lt;#condition#&gt;"
     &lt;#condition#&gt;
-#pragma clang diagnostic pop
-</string>
+#pragma clang diagnostic pop</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>0178672A-5A2B-40D6-8682-7FACA4F63FFC</string>
 	<key>IDECodeSnippetLanguage</key>

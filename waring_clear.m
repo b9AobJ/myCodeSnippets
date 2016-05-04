@@ -1,7 +1,7 @@
 // waring clear
 // 清除warning
 //
-// IDECodeSnippetCompletionPrefix: pcd
+// IDECodeSnippetCompletionPrefix: wc
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 0178672A-5A2B-40D6-8682-7FACA4F63FFC
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
