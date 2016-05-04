@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>tq_timer</string>
+	<string>sid_timer</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
 		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
 	<string>// 创建
-self.&lt;#var#&gt; = [NSTimer scheduledTimerWithTimeInterval:1.5
+self.&lt;#var#&gt; = [NSTimer scheduledTimerWithTimeInterval:&lt;&gt;
                                                             target:self
                                               selector:@selector(&lt;#timerMethod#&gt;)
                                                           userInfo:nil
