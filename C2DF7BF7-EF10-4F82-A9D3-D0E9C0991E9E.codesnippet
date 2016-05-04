@@ -9,7 +9,8 @@
 		<string>CodeExpression</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>self.&lt;#var#&gt; = [NSTimer scheduledTimerWithTimeInterval:1.5
+	<string>// 创建
+self.&lt;#var#&gt; = [NSTimer scheduledTimerWithTimeInterval:1.5
                                                             target:self
                                               selector:@selector(&lt;#timerMethod#&gt;)
                                                           userInfo:nil
@@ -25,7 +26,7 @@
 	<key>IDECodeSnippetSummary</key>
 	<string>tq_timer</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>tq_timer</string>
+	<string>sid_timer</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>

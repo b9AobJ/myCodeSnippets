@@ -1,4 +1,4 @@
-// tq_timer
+// sid_timer
 // tq_timer
 //
 // IDECodeSnippetCompletionPrefix: tq_timer
@@ -7,6 +7,7 @@
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
 // IDECodeSnippetUserSnippet: 1
 // IDECodeSnippetVersion: 2
+// 创建
 self.<#var#> = [NSTimer scheduledTimerWithTimeInterval:1.5
                                                             target:self
                                               selector:@selector(<#timerMethod#>)
