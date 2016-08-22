@@ -11,7 +11,9 @@
 	<key>IDECodeSnippetIdentifier</key>
 	<string>614E9FEA-80F1-4FC4-8FB1-B68779837CD3</string>
 	<key>IDECodeSnippetLanguage</key>
-	<string>Xcode.SourceCodeLanguage.Objective-C-Plus-Plus</string>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Constants Reference</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>docset constant</string>
 	<key>IDECodeSnippetUserSnippet</key>
